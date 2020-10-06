@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="url">https://api.coincap.io/v2/assets</string>
+</resources>
